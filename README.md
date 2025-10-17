@@ -22,11 +22,12 @@ Users should be able to:
 
 ### Screenshot
 
+![Demo screenshot](./images/preview.png)
 
 ### Links
 
-- Solution URL: [here!](https://your-solution-url.com)
-- Live Site URL: [here!](https://your-live-site-url.com)
+- Solution URL: [here!](https://www.frontendmentor.io/solutions/responsive-news-homepage-built-with-html-css-and-javascript--41_FAt75H)
+- Live Site URL: [here!](https://mohamed-devp.github.io/news-homepage/)
 
 ## My process
 
@@ -36,10 +37,6 @@ Users should be able to:
 - CSS custom properties
 - Flexbox
 - CSS Grid
-- Mobile-first workflow
-- [React](https://reactjs.org/) - JS library
-- [Next.js](https://nextjs.org/) - React framework
-- [Styled Components](https://styled-components.com/) - For styles
 
 ## Author
 
