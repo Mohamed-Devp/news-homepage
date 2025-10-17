@@ -214,14 +214,15 @@ main {
     color: var(--soft-red);
 }
 
-.top-stories h3 {
+.top-stories h2 {
+    font-size: 18px;
     font-weight: var(--extra-bold);
     color: var(--very-dark-blue);
     cursor: pointer;
     transition: .2s ease-in;
 }
 
-.top-stories h3:hover {
+.top-stories h2:hover {
     color: var(--soft-red);
 }
 
@@ -396,7 +397,7 @@ main {
         font-size: 28px;
     }
 
-    .top-stories h3 {
+    .top-stories h2 {
         font-size: 1rem;
     }
 }
@@ -404,5 +405,11 @@ main {
 @media (max-width: 340px) {
     .top-stories {
         grid-auto-rows: 100px;
+    }
+}
+
+@media (prefers-reduced-motion: reduce) {
+    * {
+        transition: none !important;
     }
 }
